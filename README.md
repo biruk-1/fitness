@@ -63,6 +63,9 @@ Styles are defined using React Native's `StyleSheet` API for consistency and vis
 ExerciseDetail screen dynamically renders content based on selected exercises, enhancing user experience and information display.
 
 # Conclusion
+about Video:
+https://github.com/biruk-1/fitness/assets/99360145/5654ab0e-258b-42bc-b2bd-6dd6566506b
+
 
 The Fitness Tracker App offers a seamless user experience with intuitive navigation, detailed exercise information, and nutritional advice. Built with React Native and React Navigation, it supports users in achieving their fitness goals effectively.
 
