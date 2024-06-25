@@ -64,7 +64,7 @@ ExerciseDetail screen dynamically renders content based on selected exercises, e
 
 # Conclusion
 about Video:
-https://github.com/biruk-1/fitness/assets/99360145/5654ab0e-258b-42bc-b2bd-6dd6566506b
+https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221o5EFGePx3nfwqhUA7eKM4i-_W8xRyy6L%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D
 
 
 The Fitness Tracker App offers a seamless user experience with intuitive navigation, detailed exercise information, and nutritional advice. Built with React Native and React Navigation, it supports users in achieving their fitness goals effectively.
