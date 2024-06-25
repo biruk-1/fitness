@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "fitnessTracker",
+    "slug": "fitnessTracker",
+    "scheme": "fitnessTracker",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router",
+      "expo-asset"
+    ]
+  }
+}
